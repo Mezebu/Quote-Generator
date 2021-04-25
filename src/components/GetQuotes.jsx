@@ -45,7 +45,7 @@ const GetQuotes = () => {
         </div>
         <div className="text-center">
           <Button variant="success" size="large" onClick={getQuotes}>
-            Next Quote
+            New Quote
           </Button>
         </div>
       </Container>
